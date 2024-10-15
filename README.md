@@ -1,16 +1,22 @@
-# semana3flutter
+# Semana 3 Flutter
+Este proyecto es una recreación simple del proyecto minicore de Enrique Merizalde (https://youtu.be/dHrqg6LyfZs). En mi caso cambié el front a Flutter de manera sencilla.
 
-A new Flutter project.
+## Probar
+Para probar el código puedes clonarlo con: 
+```
+git clone https://github.com/titorjs/semana3-Flutter.git
+```
+Ingresas a la carpeta:
+```
+cd semana3-Flutter
+```
 
-## Getting Started
+Abrir un terminal en la carpeta y ejecutar:
+```
+flutter run
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Sobre el desarrollador
+Tito Jaramillo, estudiante de Ingeniería de Software de la Universidad de las Américas (Quito, Ecuador).
+Correo: tito.jaramillo@udla.edu.ec
+LinkedIn: www.linkedin.com/in/tito-jaramillo-salazar-769ba922b
